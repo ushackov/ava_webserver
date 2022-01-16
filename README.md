@@ -1,2 +1,2 @@
-# stepic_java_webserver
-Примеры Java кода для курса "Изучение Java и фронтенд на примере разработки веб сервиса" на https://stepic.org/
+# java_webserver
+Р Р°Р±РѕС‚Р° СЃ Р‘Р” jdbc VS hibernate + servlets
